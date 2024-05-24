@@ -4,7 +4,7 @@ import React from 'react';
 const HomeScreen: React.FC = () => {
   return (
     <View style={{flex: 1, justifyContent: 'center', alignItems: 'center'}}>
-      <Text>Your birbs are here</Text>
+      <Text>This is where your dashboard will be</Text>
     </View>
   );
 };
